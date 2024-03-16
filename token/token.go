@@ -35,6 +35,8 @@ const (
     EQ      = "=="
     NOT_EQ  = "!="
 
+    STRING = "STRING"
+
     // keywords 
     FUNCTION = "FUNCTION"
     LET      = "LET"
